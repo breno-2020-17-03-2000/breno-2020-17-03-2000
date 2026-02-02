@@ -1,15 +1,6 @@
 
 # Bem-vindo(a) ao perfil Breno da Paz Leal 🎧⌨️🖥️
 
-<div align="center"><br>
-  <a href="https://github.com/breno-2020-17-03-2000">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=breno-2020-17-03-2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-2020-17-03-2000&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
-</br>
-
 ## 🛠️ Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
