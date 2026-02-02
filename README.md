@@ -234,14 +234,6 @@
 
 <br>
 
-## 📊 Estatísticas Gerais
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=breno-2020-17-03-2000&theme=tokyonight" alt="GitHub Streak">
-</div>
-
-<br>
-
 ## 👨‍💻 Sobre Mim
 
 Sou estudante de Bacharelado em Sistemas de Informação, apaixonado por tecnologia, inovação e resolução de problemas. Estou em busca de uma oportunidade na área de desenvolvimento web e programação para crescer profissionalmente e contribuir com projetos inovadores.
