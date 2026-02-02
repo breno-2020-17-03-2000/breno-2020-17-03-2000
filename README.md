@@ -227,7 +227,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de Bacharelado em Sistemas de Informação, apaixonado por tecnologia, inovação e resolução de problemas. Estou em busca de uma oportunidade na área de desenvolvimento web e programação para crescer profissionalmente e contribuir com projetos inovadores.
+Sou estudante de Bacharelado em Sistemas de Informação, movido pela curiosidade e pelo desejo de transformar ideias em soluções digitais úteis. Tenho afinidade com desenvolvimento web e busco sempre conjugar boas práticas de código, usabilidade e desempenho nos projetos que desenvolvo. Aprendo por meio da prática: construo, erro, corrijo e aprimoro — e é nesse ciclo que consolido conhecimentos em HTML, CSS e JavaScript. Procuro uma oportunidade em que eu possa contribuir com soluções reais, colaborar em equipe, e continuar crescendo profissionalmente, trazendo comprometimento, atenção a detalhes e vontade constante de aprender.
 
 ---
 
