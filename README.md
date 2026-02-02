@@ -1,14 +1,14 @@
 
 # Bem-vindo(a) ao perfil Breno da Paz Leal 🎧⌨️🖥️
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/breno-2020-17-03-2000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno-2020-17-03-2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-2020-17-03-2000&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=breno-2020-17-03-2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-2020-17-03-2000&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
-<br>
+</br>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -20,11 +20,11 @@
   <img align="center" alt="Haskell" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 </div>
 
-<br>
+</br>
 
 ## 📱 Conecte-se comigo nas Redes Sociais
 
-<div align="center">
+<div align="center"><br>
   <a href="https://youtube.com/@brenoleal7853?si=TG8MBR0uQ3a-aKtQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/breno.leal.202045?igsh=d3hsNDF0NXZId2Vn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/brenoleal17_03_2000" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/breno-leal-b91a26262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
+</br>
 
 ## 📚 Meus Projetos
 
