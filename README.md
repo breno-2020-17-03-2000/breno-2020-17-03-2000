@@ -17,7 +17,7 @@
 
 <div align="center"><br>
   <a href="https://youtube.com/@brenoleal7853?si=TG8MBR0uQ3a-aKtQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/breno.leal.202045?igsh=d3hsNDF0NXZId2Vn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/brenodapazleal_0101_17?igsh=d3hsNDF0NXZId2Vn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/brenoleal17_03_2000" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="mailto:brenoleal990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/breno-leal-b91a26262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -227,7 +227,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de Bacharelado em Sistemas de Informação, movido pela curiosidade e pelo desejo de transformar ideias em soluções digitais úteis. Tenho afinidade com desenvolvimento web e busco sempre conjugar boas práticas de código, usabilidade e desempenho nos projetos que desenvolvo. Aprendo por meio da prática: construo, erro, corrijo e aprimoro — e é nesse ciclo que consolido conhecimentos em HTML, CSS e JavaScript. Procuro uma oportunidade em que eu possa contribuir com soluções reais, colaborar em equipe, e continuar crescendo profissionalmente, trazendo comprometimento, atenção a detalhes e vontade constante de aprender.
+Sou estudante de Bacharelado em Sistemas de Informação, movido pela curiosidade e pelo desejo de transformar ideias em soluções digitais úteis. Tenho afinidade com desenvolvimento web e busco sempre conjugar boas práticas de código, usabilidade e desempenho nos projetos que desenvolvo. Aprendo por meio da prática: construo, erro, corrijo e aprimoro, e é nesse ciclo que consolido conhecimentos em HTML, CSS e JavaScript. Procuro uma oportunidade em que eu possa contribuir com soluções reais, colaborar em equipe, e continuar crescendo profissionalmente, trazendo comprometimento, atenção a detalhes e vontade constante de aprender.
 
 ---
 
