@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/HTMX-0F172A?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django">
   <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Prolog-100%25-orange?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog">  
+  <img src="https://img.shields.io/badge/Prolog-143?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog"> 
 </div>
 
 </br>
