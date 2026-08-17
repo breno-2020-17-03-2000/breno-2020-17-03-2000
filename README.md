@@ -49,6 +49,16 @@
         <img src="https://img.shields.io/badge/Visualizar-Projeto-green?style=flat-square">
       </a>
     </td>
+      <td align="center">
+      <h3>01 - szpc-gta-6</h3>
+      <img src="https://img.shields.io/badge/JavaScript-28.5%25-yellow?style=flat-square&logo=javascript">
+      <img src="https://img.shields.io/badge/CSS-39.3%25-blue?style=flat-square&logo=css3">
+      <img src="https://img.shields.io/badge/HTML-32.2%25-red?style=flat-square&logo=html5">
+      <br>
+      <a href="https://breno-2020-17-03-2000.github.io/szpc-gta-6/">
+        <img src="https://img.shields.io/badge/Visualizar-Projeto-green?style=flat-square">
+      </a>
+    </td>
     <td align="center">
       <h3>03 - fundo-magico-szpc</h3>
       <img src="https://img.shields.io/badge/JavaScript-43.2%25-yellow?style=flat-square&logo=javascript">
