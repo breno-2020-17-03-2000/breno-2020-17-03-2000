@@ -9,6 +9,9 @@
   <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Haskell" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
+  <img align="center" alt="HTMX" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HTMX/HTMX-original.svg">
+  <img align="center" alt="django" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="n8n io" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n io/n8n io-original.svg">
 </div>
 
 </br>
